@@ -1,3 +1,4 @@
+#Example: python3 script.py 192.168.1 1 10
 import sys
 import os
 
